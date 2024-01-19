@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>E-Commerce Sales Dashboard</title>
+		<title> Amazon Prime Video dashboard</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -19,7 +19,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a href="#" class="logo">E-Commerce Sales Dashboard</a>
+						<a href="#" class="logo">Amazon Prime Video dashboard</a>
 					</header>
 
 				<!-- Nav -->
@@ -48,16 +48,15 @@
 									<h1>Project Detail :
 									</h1>
 									<ul>
-                                        <li><p>At the top, there are four key metrics displayed: Sales, Profit, Order, and Market Share By Sales with respective percentage increases compared to the previous year.</p></li>
-                                        <li><p>Below these metrics, there’s a bar graph labeled “Category wise YTD vs PYTD Sales” showing different categories like cardio equipment, camping & hiking equipment etc., with their respective earnings.</p></li>
-                                        <li><p>To the right of this bar graph is another visual representation titled “Market wise Customer Acquisition per Month,” depicted with colored circles connected by lines representing Africa, Europe, and LATAM over months from January to December.</p></li>
-                                        
+                                        <li><p>A Tableau dashboard that provides a comprehensive analysis of Amazon Prime Video’s content, focusing on various parameters like the total number of shows by country, top genres, and distribution based on type and release year.</p></li>
+                                        <li><p>From this project, we have understood the geographical distribution of Amazon Prime Video’s content, with a detailed map visualizing the concentration of shows in different countries.</p></li>
+                                        <li><p>The top 10 genres bar chart offers insights into audience preferences and content diversity.</p></li>
                                     </ul>
 								</header>
-								<a  class="image main"><img src="images/Dashboard 1.png" alt="" /></a><br>
+								<a  class="image main"><img src="images/Amazon Prime Video Dashboard.png" alt="" /></a><br>
                                 <ul class="actions special">
 									<li><a href="index.html" class="button large">Go to Home</a></li> <br>
-									<li><a href="https://public.tableau.com/app/profile/puneet.garg/viz/shared/BFTXBG5K9" class="button large">View Project</a></li>
+									<li><a href="https://public.tableau.com/app/profile/puneet.garg/viz/AmazonPrimeVideoDashboard_17029943882390/AmazonPrimeVideoDashboard" class="button large">View Project</a></li>
 								</ul>
 								
 							</section>
